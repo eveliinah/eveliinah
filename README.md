@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Eveliina.
+
+* Currently: Software Engineering Student at Metropolia University of Applied Sciences
+* Summer 2022: IT Trainee at Primanet Oy
+
+### 📁 My projects
+
+* coming soon...
+
+
 
 <!--
 **eveliinah/eveliinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

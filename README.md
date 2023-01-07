@@ -7,14 +7,18 @@ I'm Eveliina.
 
 ### 📁 My projects
 
-Fullstack:
+#### Fullstack: <br>
+React, Express, Redux, GraphQl, Node...
+
 * [Blogs](https://github.com/eveliinah/blogs-app)
 * [Library](https://github.com/eveliinah/library-app)
 
-Web:
+#### Web: <br>
+CSS3, HTML5, JavaScript, apis...
 * [Outdoor Activities Map](https://github.com/eveliinah/outdoor-app)
 
-Desktop application: 
+#### Desktop application: <br>
+Java, JavaFX, Hibernate...
 * [Airport Simulator](https://github.com/eveliinah/simulator)
 
 ### 🌱 I’m currently learning...

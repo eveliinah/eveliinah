@@ -7,8 +7,15 @@ I'm Eveliina.
 
 ### 📁 My projects
 
-* coming soon...
+Desktop application: 
+* [Airport Simulator](https://github.com/eveliinah/simulator)
 
+Fullstack:
+* [Blogs](https://github.com/eveliinah/blogs-app)
+* [Library](https://github.com/eveliinah/library-app)
+
+Web:
+* [Outdoor Activities Map](https://github.com/eveliinah/outdoor-app)
 
 
 <!--

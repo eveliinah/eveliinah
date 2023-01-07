@@ -7,15 +7,20 @@ I'm Eveliina.
 
 ### 📁 My projects
 
-Desktop application: 
-* [Airport Simulator](https://github.com/eveliinah/simulator)
-
 Fullstack:
 * [Blogs](https://github.com/eveliinah/blogs-app)
 * [Library](https://github.com/eveliinah/library-app)
 
 Web:
 * [Outdoor Activities Map](https://github.com/eveliinah/outdoor-app)
+
+Desktop application: 
+* [Airport Simulator](https://github.com/eveliinah/simulator)
+
+### 🌱 I’m currently learning...
+* Modern web development with JavaScript on Fullstack open- course (University of Helsinki)
+* User-centered design
+* Scrum
 
 
 <!--

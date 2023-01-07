@@ -22,6 +22,9 @@ Desktop application:
 * User-centered design
 * Scrum
 
+### 🎖️ Certificate
+
+<img src="certificate-fullstack.png" width="500">
 
 <!--
 **eveliinah/eveliinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@ I'm Eveliina.
 
 * Currently: Software Engineering Student at Metropolia University of Applied Sciences
 * Summer 2022: IT Trainee at Primanet Oy
-
+<!--
 ### 📁 My projects
 
 #### Fullstack: <br>
@@ -25,6 +25,7 @@ Java, JavaFX, Hibernate...
 * Modern web development with JavaScript on Fullstack open- course (University of Helsinki)
 * User-centered design
 * Scrum
+-->
 
 ### 🎖️ Certificate
 

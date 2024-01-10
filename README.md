@@ -3,7 +3,6 @@
 I'm Eveliina.
 
 * Currently: Software Engineering Student at Metropolia University of Applied Sciences
-* Summer 2022: IT Trainee at Primanet Oy
 <!--
 ### 📁 My projects
 
@@ -21,10 +20,6 @@ CSS, HTML, JavaScript, apis...
 Java, JavaFX, Hibernate...
 * [Airport Simulator](https://github.com/eveliinah/simulator)
 
-### 🌱 I’m currently learning...
-* Modern web development with JavaScript on Fullstack open- course (University of Helsinki)
-* User-centered design
-* Scrum
 -->
 
 ### 🎖️ Certificate

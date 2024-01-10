@@ -3,7 +3,6 @@
 I'm Eveliina.
 
 * Currently: Software Engineering Student at Metropolia University of Applied Sciences
-<!--
 ### 📁 My projects
 
 #### Fullstack: <br>
@@ -20,7 +19,7 @@ CSS, HTML, JavaScript, apis...
 Java, JavaFX, Hibernate...
 * [Airport Simulator](https://github.com/eveliinah/simulator)
 
--->
+
 
 ### 🎖️ Certificate
 

@@ -22,6 +22,10 @@ CSS, HTML, JavaScript, apis...
 ### 🎖️ Certificate
 
 <img src="certificate-fullstack.png" width="500">
+<img src="certificate-cicd.png" width="500">
+<img src="certificate-graphql.png" width="500">
+<img src="certificate-typescript.png" width="500">
+
 
 <!--
 **eveliinah/eveliinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

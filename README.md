@@ -15,9 +15,7 @@ React, Express, Redux, GraphQl, Node...
 CSS, HTML, JavaScript, apis...
 * [Outdoor Activities Map](https://github.com/eveliinah/outdoor-app)
 
-#### Desktop application: <br>
-Java, JavaFX, Hibernate...
-* [Airport Simulator](https://github.com/eveliinah/simulator)
+
 
 
 

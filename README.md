@@ -2,7 +2,7 @@
 
 I'm Eveliina.
 
-Software Engineering Student at Metropolia University of Applied Sciences
+Third-year Software Engineering Student at Metropolia University of Applied Sciences.
 ### 📁 My projects
 
 #### Java: <br>

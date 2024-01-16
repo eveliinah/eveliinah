@@ -6,7 +6,7 @@ Third-year Software Engineering Student at Metropolia University of Applied Scie
 ### 📁 My projects
 
 #### Java: <br>
-Maven, JUnit, Hibernate, MariaDB
+Maven, JUnit, Hibernate, MariaDB...
 * [Simulator](https://github.com/eveliinah/simulator)
 * [Sleep-tracking-app](https://github.com/eveliinah/peippo)
 * [Feedback-app](https://github.com/eveliinah/feedback-app)

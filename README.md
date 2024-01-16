@@ -5,6 +5,10 @@ I'm Eveliina.
 * Currently: Software Engineering Student at Metropolia University of Applied Sciences
 ### 📁 My projects
 
+#### Java: <br>
+Maven, JUnit, Hibernate, MariaDB
+* [Simulator](https://github.com/eveliinah/simulator)
+
 #### Fullstack: <br>
 React, Express, Redux, GraphQl, Node...
 

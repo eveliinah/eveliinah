@@ -2,13 +2,14 @@
 
 I'm Eveliina.
 
-* Currently: Software Engineering Student at Metropolia University of Applied Sciences
+Software Engineering Student at Metropolia University of Applied Sciences
 ### 📁 My projects
 
 #### Java: <br>
 Maven, JUnit, Hibernate, MariaDB
 * [Simulator](https://github.com/eveliinah/simulator)
 * [Sleep-tracking-app](https://github.com/eveliinah/peippo)
+* [Feedback-app](https://github.com/eveliinah/feedback-app)
 
 #### Fullstack: <br>
 React, Express, Redux, GraphQl, Node...

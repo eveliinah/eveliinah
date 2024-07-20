@@ -1,9 +1,9 @@
-### Hi there! 👋
 
-I'm Eveliina.
-
-Third-year Software Engineering Student at Metropolia University of Applied Sciences.
 ### 📁 My projects
+
+🔭 I’m currently working on this: (https://github.com/eveliih/webstore)<br>
+
+#### Some of the old projects:
 
 #### Java: <br>
 Maven, JUnit, Hibernate, MariaDB...
